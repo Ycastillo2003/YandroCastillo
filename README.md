@@ -22,6 +22,4 @@
 
 
 
-<h2>🤳Connect with me:</h2>
-- <a href="https://profile.indeed.com/p/yandroc-r5clrsz">![image](https://github.com/user-attachments/assets/7242df3e-5217-434a-a2a5-1f1771c2d393)
-</a>☺</h1>
+<h2>🤳🏾Connect with me:</h2>
