@@ -9,7 +9,7 @@
 
  # osTicket 🎟️
 - <a href="https://github.com/Ycastillo2003/Os-ticket-installation-and-prerequesites./blob/main/README.md">osTicket - Prerequisites and Installation</a>☺</h1>
-
+- <a href="https://github.com/Ycastillo2003/osTicket-Post-installation-and-configuration-/blob/main/README.md">osTicket - Post install and configuration</a>☺</h1>
 
 
 
