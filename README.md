@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Active Directory Labs.
-- <a href="https://github.com/Ycastillo2003/Managing-Users-access-and-group-policies-with-active-directory.">Managing-Users-access-and-group-policies-with-active-directory.</a>☺</h1>
+- <a href="https://github.com/Ycastillo2003/Managing-Users-access-and-group-policies-with-active-directory.">Managing-Users access and group policies with active directory.</a>☺</h1>
 
 
 
