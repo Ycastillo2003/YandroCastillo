@@ -8,7 +8,7 @@
 - <a href="https://github.com/Ycastillo2003/Network-and-File-Sharing-/blob/main/README.md">Network and File Sharing</a>☺</h1>
 
  # osTicket 🎟️
-
+- <a href="https://github.com/Ycastillo2003/Os-ticket-installation-and-prerequesites./blob/main/README.md">osTicket - Prerequisites and Installation</a>☺</h1>
 
 
 
