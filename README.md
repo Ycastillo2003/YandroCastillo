@@ -20,6 +20,8 @@
 
 
 
-
+https://profile.indeed.com/p/yandroc-r5clrsz
 
 <h2>🤳🏾Connect with me:</h2>
+
+<a href="https://profile.indeed.com/p/yandroc-r5clrsz">Indeed 👨🏿‍💼 </a>☺</h1>
