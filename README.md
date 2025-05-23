@@ -13,6 +13,7 @@
 - <a href="https://github.com/Ycastillo2003/osTicket-Working-Ticket-Lifecycles/blob/main/README.md">osTicket - Ticket Lifecycle: Intake Through Resolution</a>☺</h1>
 
 
+# Qwik Labs 👨🏿‍🔬
 
 
 
@@ -20,7 +21,6 @@
 
 
 
-https://profile.indeed.com/p/yandroc-r5clrsz
 
 <h2>🤳🏾Connect with me:</h2>
 
