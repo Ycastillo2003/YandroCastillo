@@ -14,8 +14,7 @@
 
 
 # Microsoft azure Labs 🌩️
--  https://github.com/Ycastillo2003/Monitoring-Network-Activities
-<a href="https://github.com/Ycastillo2003/Monitoring-Network-Activities">eploying Azure Virtual Machines and Installing WireShark</a>☺</h1>
+- <a href="https://github.com/Ycastillo2003/Monitoring-Network-Activities">Deploying Azure Virtual Machines and Installing WireShark.</a>☺</h1>
 
 
 
