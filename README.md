@@ -32,4 +32,4 @@
 <h2>🤳🏾Connect with me:</h2>
 
 - <a href="https://profile.indeed.com/p/yandroc-r5clrsz">Indeed 👨🏿‍💼 </a>☺</h1>
-- <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Linkedin</a>☺</h1>
+[linkedin]:https://www.linkedin.com/in/yandro-castillo-4a8908239/
