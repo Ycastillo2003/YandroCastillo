@@ -4,8 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
  # Linux Labs 🐧
-
-
+- <a href="https://github.com/Ycastillo2003/Use-Linux-commands-to-manage-file-permissions/blob/main/README.md">Linux: Manage authorization</a>☺</h1>
 
 
  # Active Directory Labs 🗂️
