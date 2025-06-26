@@ -1,4 +1,4 @@
-# 👋 "Hi there, my name is <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Yandro Castillo</a>☺</h1>  and I am an aspiring IT Professional
+# 👋 "Hi there, my name is <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Yandro Castillo</a>☺</h1> 
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
