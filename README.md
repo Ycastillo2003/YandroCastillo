@@ -31,7 +31,7 @@
 
 
 
-https://github.com/Ycastillo2003/Manage-files-with-Linux-commands/blob/main/README.md
+
 
 
 
@@ -45,6 +45,6 @@ https://github.com/Ycastillo2003/Manage-files-with-Linux-commands/blob/main/READ
 - <a href="https://profile.indeed.com/p/yandroc-r5clrsz">Indeed 👨🏿‍💼 </a>☺</h1>
 - <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Linkedin</a>☺</h1>
 
-![image](https://github.com/user-attachments/assets/fd02e07b-c8df-46c2-b244-ee67694d70e8)
+![image](https://github.com/user-attachments/assets/14efc171-1285-461d-98dd-9c592d325b04)
 
 
