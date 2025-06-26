@@ -43,3 +43,6 @@ https://github.com/Ycastillo2003/Manage-files-with-Linux-commands/blob/main/READ
 
 - <a href="https://profile.indeed.com/p/yandroc-r5clrsz">Indeed 👨🏿‍💼 </a>☺</h1>
 - <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Linkedin</a>☺</h1>
+
+- ![black-guy-with-curly-hair-and-no-beard-on-a-computer-hacking](https://github.com/user-attachments/assets/298c9508-1dbf-4e03-8f61-4d8556c65a78)
+
