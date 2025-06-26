@@ -11,7 +11,8 @@
 - <a href="https://github.com/Ycastillo2003/Use-Linux-commands-to-manage-file-permissions/blob/main/README.md">Linux: Manage authorization</a>☺</h1>
 - <a href="https://github.com/Ycastillo2003/Filtering-With-Grep">Linux: Filering With Grep</a>☺</h1>
 - <a href="https://github.com/Ycastillo2003/Manage-files-with-Linux-commands/blob/main/README.md">Linux: Managing files</a>☺</h1>
- 
+- <a href=" https://github.com/Ycastillo2003/Add-and-manage-users-with-Linux-commands">Linux: Managing Users</a>☺</h1>
+
  
  # Active Directory Labs 🗂️
 - <a href="https://github.com/Ycastillo2003/Managing-Users-access-and-group-policies-with-active-directory.">Managing-Users access and group policies with active directory.</a>☺</h1>
