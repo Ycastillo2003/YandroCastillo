@@ -44,5 +44,6 @@ https://github.com/Ycastillo2003/Manage-files-with-Linux-commands/blob/main/READ
 - <a href="https://profile.indeed.com/p/yandroc-r5clrsz">Indeed 👨🏿‍💼 </a>☺</h1>
 - <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Linkedin</a>☺</h1>
 
-#  ![image](https://github.com/user-attachments/assets/5e975abe-4f83-4ab2-9c47-96520bc38d24)
+![image](https://github.com/user-attachments/assets/fd02e07b-c8df-46c2-b244-ee67694d70e8)
+
 
