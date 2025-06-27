@@ -1,7 +1,7 @@
 # 👋 "Hi there, my name is Yandro Castillo and I'm an aspiring <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">IT Professional </a>☺</h1> 🚀
 
 
-<h2>👨‍💻 Information Technology Projects:</h2> 
+<h2>👨‍💻 Information Technology Projects</h2> 
 
  # SQL Labs ✨
 - <a href="https://github.com/Ycastillo2003/Perform-a-SQL-query/blob/main/README.md">SQL: Performing an SQL query.</a>☺</h1>
