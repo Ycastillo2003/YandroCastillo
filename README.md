@@ -5,7 +5,7 @@
 
  # SQL Labs ✨
 - <a href="https://github.com/Ycastillo2003/Perform-a-SQL-query/blob/main/README.md">SQL: Performing an SQL query.</a>☺</h1>
-
+- <a href="https://github.com/Ycastillo2003/Filter-a-SQL-query/blob/main/README.md">SQL: Performing an SQL query.</a>☺</h1> 
  # Linux Labs 🐧
 - <a href="https://github.com/Ycastillo2003/Use-Linux-commands-to-manage-file-permissions/blob/main/README.md">Linux: Manage authorization</a>☺</h1>
 - <a href="https://github.com/Ycastillo2003/Filtering-With-Grep">Linux: Filering With Grep</a>☺</h1>
