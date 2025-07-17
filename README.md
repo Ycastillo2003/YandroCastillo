@@ -38,11 +38,11 @@
 
 
 
-
+[linkedin]: https://www.linkedin.com/in/yandro-castillo-4a8908239/
 
 <h2>🤳🏾Connect with me:</h2>
 
-- <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/">Linkedin</a>☺</h1>
+[linkedin]: https://www.linkedin.com/in/yandro-castillo-4a8908239/
 
 ![image](https://github.com/user-attachments/assets/14efc171-1285-461d-98dd-9c592d325b04)
 
